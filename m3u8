@@ -815,30 +815,62 @@ http://vmp343.ddnsking.com:80/david2/david2/549012
 http://38.143.137.105:8080/5322/5322/392996
 #EXTINF:-1,UK: Eurosport 2 HD
 http://38.143.137.105:8080/5322/5322/392997
+#EXTINF:-1,SKY-SPORTS ARENA
+http://vmp343.ddnsking.com:80/david2/david2/549007
+#EXTINF:-1,SKY-SPORTS CRICKET
+http://vmp343.ddnsking.com:80/david2/david2/549004
 #EXTINF:-1,SKY-SPORTS FOOTBALL BACKUP
-http://38.143.137.105:8080/5322/5322/417545
+http://vmp343.ddnsking.com:80/david2/david2/549003
 #EXTINF:-1,SKY-SPORTS FOOTBALL
 http://sonyiptv.net:8080/shan/shan/179910
 #EXTINF:-1,SKY-SPORTS MAIN EVENT BACKUP
-http://38.143.137.105:8080/5322/5322/417546
+http://vmp343.ddnsking.com:80/david2/david2/549001
 #EXTINF:-1,SKY-SPORTS MAIN EVENT
 http://sonyiptv.net:8080/shan/shan/179911
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE
 http://sonyiptv.net:8080/shan/shan/179914
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE BACKUP
-http://38.143.137.105:8080/5322/5322/417542
+http://vmp343.ddnsking.com:80/david2/david2/549002
 #EXTINF:-1,SKY-SPORTS RACING
 http://vmp343.ddnsking.com:80/david2/david2/549008
 #EXTINF:-1,SKY-SPORTS F1 BACKUP
 http://sonyiptv.net:8080/shan/shan/179918
 #EXTINF:-1,SKY-SPORTS F1
-http://eaiptv.net:8888/medo/medo/59472
+http://vmp343.ddnsking.com:80/david2/david2/549070
+#EXTINF:-1,SKY-SPORTS GOLF
+http://vmp343.ddnsking.com:80/david2/david2/549005
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1,TR: beIN SPORTS 1 HD
 http://portal.zexo.site:8080/zero/zero/2
 #EXTINF:-1,TR: beIN SPORTS 2 HD
 http://portal.zexo.site:8080/zero/zero/4
+#EXTINF:-1,WORLD SPORT: SUPER SPORT LALIGA
+http://vmp343.ddnsking.com:80/david2/david2/394991
+#EXTINF:-1,WORLD SPORT: SUPER SPORT PREMIER LEAUGE
+http://vmp343.ddnsking.com:80/david2/david2/394993
+#EXTINF:-1,WORLD SPORT: SUPER SPORT FOOTBALL
+http://vmp343.ddnsking.com:80/david2/david2/394994
+#EXTINF:-1,WORLD SPORT: SUPER SPORT GRANDSTAND
+http://vmp343.ddnsking.com:80/david2/david2/394995
+#EXTINF:-1,WORLD SPORT: SUPER SPORT ACTION
+http://vmp343.ddnsking.com:80/david2/david2/394996
+#EXTINF:-1,WORLD SPORT: SUPER SPORT RUGBY
+http://vmp343.ddnsking.com:80/david2/david2/394997
+#EXTINF:-1,WORLD SPORT: SUPER SPORT CRICKET
+http://vmp343.ddnsking.com:80/david2/david2/394998
+#EXTINF:-1,WORLD SPORT: SUPER SPORT BLITZ
+http://vmp343.ddnsking.com:80/david2/david2/394999
+#EXTINF:-1,WORLD SPORT: SUPER SPORT MAXIMO
+http://vmp343.ddnsking.com:80/david2/david2/395000
+#EXTINF:-1,WORLD SPORT: SUPER SPORT GOLF
+http://vmp343.ddnsking.com:80/david2/david2/395001
+#EXTINF:-1,WORLD SPORT: SUPER SPORT TENNIS
+http://vmp343.ddnsking.com:80/david2/david2/395002
+#EXTINF:-1,WORLD SPORT: SUPER SPORT PLAY
+http://vmp343.ddnsking.com:80/david2/david2/395003
+#EXTINF:-1,WORLD SPORT: SUPER SPORT MOTORSPORT
+http://vmp343.ddnsking.com:80/david2/david2/395004
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BEIN ENG 1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BEIN ENG 2
