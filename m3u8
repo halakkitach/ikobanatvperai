@@ -699,6 +699,14 @@ http://tvn.x10.bz/channel/master-7.m3u8
 http://tvn.x10.bz/channel/master-8.m3u8
 #EXTINF:-1 group-title="TV SPORT",  Champions 4 TV
 http://tvn.x10.bz/channel/master-17.m3u8
+#EXTINF:-1,Champion TV 1
+http://mantul.biz.id:8888/Manuel-Spain/8opbS3oMCp/232
+#EXTINF:-1,Champion TV 2
+http://mantul.biz.id:8888/Manuel-Spain/8opbS3oMCp/253
+#EXTINF:-1,Champion TV 3
+http://mantul.biz.id:8888/Manuel-Spain/8opbS3oMCp/77
+#EXTINF:-1,Champion TV 4
+http://mantul.biz.id:8888/Manuel-Spain/8opbS3oMCp/13922
 #EXTINF:-1 group-title="TV SPORT",  ELEVENSPORT ASIA 1
 https://europe-west-hls.mls.mycujoo.tv/esgp/ckze22hzk000e0188jlzvr6d2/720p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
