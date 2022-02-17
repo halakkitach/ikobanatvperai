@@ -10,31 +10,26 @@ https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
 https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
 https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-0-8398078e17870b75a68e97392ca17db5
 
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB BORNEO FC VS BHAYANGKARA FC
-http://175.41.151.141/m3u8/vid_Indosiar.m3u8
+#EXTINF:-1 group-title="LIVE EVENT", LIVE 16.00 WIB AFF U23 Brunei Darussalam vs Timor Leste
 https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
-
-#EXTINF:-1 group-title="LIVE EVENT", LIVE 19.00 WIB AFF U23 Thailand vs Singapura
 http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285567
+
+#EXTINF:-1 group-title="LIVE EVENT", LIVE 16.00 WIB AFF U23 Kamboja vs Philippina
+https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
+http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285567
+
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 00.45 WIB Borussia Dortmund-vs-Glasgow
 https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
 
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.45 WIB BALI UNITED VS PSS
-http://tvn.x10.bz/channel/master.m3u8
-https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
-http://175.41.151.141/m3u8/vid_Indosiar.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB Salzburg vs Bayern München FULL HD
-https://d3rwour00l8w6d.cloudfront.net:443/stream/Mjg2Mw==/1080p.m3u8
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 00.45 WIB BARCELONA vs NAPOLI 
+https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
 https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
 
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB InterMILAN vs Liverpool FULLHD
-https://d3rwour00l8w6d.cloudfront.net:443/stream/Mjg2NA==/1080p.m3u8
-https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
-
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA CHAMPION InterMILAN vs Liverpool 
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA EUROPA SEVILLA vs DINAMO ZAGREB
 http://goldentv.tech:25461/rachman/rachman/25208
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA CHAMPION Salzburg vs Bayern München
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA EUROPA PORTO vs LAZIO
 http://goldentv.tech:25461/rachman/rachman/25207
 
 #EXTINF:-1 group-title="LIVE EVENT",LIVE LIGUE 1 PRANCIS
@@ -63,8 +58,12 @@ http://cdn2.cyclingnews.live/hls/P1.m3u8
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT", NBA
-https://d1eqmybbugbqy9.cloudfront.net/hls/TNT/chunks.m3u8?P135
+https://d1eqmybbugbqy9.cloudfront.net/hls/espn/chunks.m3u8?P135
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
+
+#EXTINF:-1 group-title="LIVE EVENT",LIVE LIGA 1 BRI
+https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
+http://175.41.151.141/m3u8/vid_Indosiar.m3u8
 
 ######### INDONESIA #########
 
