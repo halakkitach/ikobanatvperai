@@ -665,7 +665,6 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://photos.my.id/images/f99j.png" group-title="TV SPORT",SPOTV 2 ID
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png" group-title="TV SPORT",SpoTV 1
@@ -692,14 +691,6 @@ https://on-load.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
-#EXTINF:-1 tvg-id="" tvg-name="INDO | Champions 1 TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="TV SPORT",INDO | Champions 1 TV USEE TV
-https://etslive-2-vidio-com.akamaized.net/exp=1645045500~acl=/hls-p/ingest_6685_*/*~hmac=206700d14e6262470c73079df0cc8868ada7a6b9bc8446250ede1bd6ed3a716a/hls-p/ingest_6685_720p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDO | Champions 2 TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="TV SPORT",INDO | Champions 2 TV USEE TV
-https://etslive-2-vidio-com.akamaized.net/exp=1645035016~acl=/hls-p/ingest_6686_*/*~hmac=7e67a21a383923d762dc830b8f7120416534fb4e6de5c9d2a2a5dc2160e0bdce/hls-p/ingest_6686_720p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDO | Champions 2 TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="TV SPORT",INDO | Champions 3 TV USEE TV
-https://etslive-2-vidio-com.akamaized.net/exp=1645035026~acl=/hls-p/ingest_6786_*/*~hmac=dcb90e28d497f9772c13a93f355ca155b3355a1a8320d595374c329f8d809570/hls-p/ingest_6786_720p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDO | Champions 2 TV" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="TV SPORT",INDO | Champions 4 TV USEE TV
-https://etslive-2-vidio-com.akamaized.net/exp=1645035120~acl=/hls-p/ingest_7953_*/*~hmac=d56c9a32dcd60bd6b41b1e7e9e570be397988bc8d105d0dcf52b56ffc89d607a/hls-p/ingest_7953_720p/index.m3u8
 #EXTINF:-1 group-title="TV SPORT",  Champions 1 TV
 http://tvn.x10.bz/channel/master-6.m3u8
 #EXTINF:-1 group-title="TV SPORT",  Champions 2 TV
@@ -758,18 +749,6 @@ http://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
 http://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFF U23 5
 http://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
-#EXTINF:-1,TH | PPTV HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281639
-#EXTINF:-1,TH: True Sport HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285566
-#EXTINF:-1,TH: True Sport 2 HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285567
-#EXTINF:-1,TH: True Sport 3 HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285568
-#EXTINF:-1,TH: True Sport 4 HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285569
-#EXTINF:-1,TH: True Sport 7 HD
-https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCQ1fbG/Tpf.png" group-title="TV SPORT", PREMIER FOOTBALL HD 1
@@ -807,19 +786,17 @@ http://goldentv.tech:25461/rachman/rachman/25016
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1,UK: BT SPORT 1
-http://vmp343.ddnsking.com:80/pari/pari/549015
+http://eaiptv.net:8888/medo/medo/59480
 #EXTINF:-1,UK: BT SPORT 2
-http://vmp343.ddnsking.com:80/pari/pari/549016
+http://eaiptv.net:8888/medo/medo/59482
 #EXTINF:-1,UK: BT SPORT 3
-http://vmp343.ddnsking.com:80/pari/pari/549017
+http://eaiptv.net:8888/medo/medo/59484
 #EXTINF:-1,UK: BT SPORT ESPN
-http://vmp343.ddnsking.com:80/pari/pari/549018
-#EXTINF:-1,UK FHD  Premier Sports 2 ( Irish Version )
-http://vmp343.ddnsking.com:80/david2/david2/549014
+http://eaiptv.net:8888/medo/medo/59486
 #EXTINF:-1,UK FHD  Premier Sports 1 ( Irish Version )
-http://vmp343.ddnsking.com:80/david2/david2/549013
+http://eaiptv.net:8888/medo/medo/59504
 #EXTINF:-1,UK: Free Sports HD
-http://vmp343.ddnsking.com:80/david2/david2/549029
+http://38.143.137.105:8080/5322/5322/315504
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 1 BACKUP
 http://sonyiptv.net:8080/shan/shan/179902
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 2 BACKUP
@@ -837,39 +814,27 @@ http://613922723769276438.nicebig.xyz:80/h21041003/651032140/276438
 #EXTINF:-1,UK: BT Sport ESPN HD BACKUP II
 http://613922723769277622.nicebig.xyz:80/h21041003/651032140/277622
 #EXTINF:-1,UK: Eurosport 1 HD
-http://pprotv.com:80/06169559/06169559/33318
+http://38.143.137.105:8080/5322/5322/392996
 #EXTINF:-1,UK: Eurosport 2 HD
-http://pprotv.com:80/06169559/06169559/33319
-#EXTINF:-1,UKHD EuroSports 1 HD
-http://vmp343.ddnsking.com:80/david2/david2/549011
-#EXTINF:-1,UKHD EuroSports 2 HD
-http://vmp343.ddnsking.com:80/david2/david2/549012
-#EXTINF:-1,SKY-SPORTS ARENA
-http://vmp343.ddnsking.com:80/david2/david2/549007
-#EXTINF:-1,SKY-SPORTS CRICKET
-http://vmp343.ddnsking.com:80/david2/david2/549004
+http://38.143.137.105:8080/5322/5322/392997
 #EXTINF:-1,SKY-SPORTS FOOTBALL BACKUP
-http://vmp343.ddnsking.com:80/david2/david2/549003
+http://38.143.137.105:8080/5322/5322/417545
 #EXTINF:-1,SKY-SPORTS FOOTBALL
 http://sonyiptv.net:8080/shan/shan/179910
 #EXTINF:-1,SKY-SPORTS MAIN EVENT BACKUP
-http://vmp343.ddnsking.com:80/david2/david2/549001
+http://38.143.137.105:8080/5322/5322/417546
 #EXTINF:-1,SKY-SPORTS MAIN EVENT
 http://sonyiptv.net:8080/shan/shan/179911
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE
 http://sonyiptv.net:8080/shan/shan/179914
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE BACKUP
-http://vmp343.ddnsking.com:80/david2/david2/549002
+http://38.143.137.105:8080/5322/5322/417542
 #EXTINF:-1,SKY-SPORTS RACING
 http://vmp343.ddnsking.com:80/david2/david2/549008
 #EXTINF:-1,SKY-SPORTS F1 BACKUP
 http://sonyiptv.net:8080/shan/shan/179918
 #EXTINF:-1,SKY-SPORTS F1
-http://vmp343.ddnsking.com:80/david2/david2/549070
-#EXTINF:-1,SKY-SPORTS GOLF
-http://vmp343.ddnsking.com:80/david2/david2/549005
-#EXTINF:-1,IT: Sky Sport MotoGP HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/9880
+http://eaiptv.net:8888/medo/medo/59472
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1,TR: beIN SPORTS 1 HD
@@ -993,6 +958,20 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
+#EXTINF:-1,FR:RMC_SPORT1_HD_backup
+http://eaiptv.net:8888/medo/medo/25638
+#EXTINF:-1,FR:RMC_SPORT2_HD_backup
+http://eaiptv.net:8888/medo/medo/25639
+#EXTINF:-1,FR:RMC_SPORT3_HD_backup
+http://eaiptv.net:8888/medo/medo/25640
+#EXTINF:-1,FR:RMC_SPORT4_HD_backup
+http://eaiptv.net:8888/medo/medo/25641
+#EXTINF:-1,FR:RMC_SPORT_ACCESS_1
+http://eaiptv.net:8888/medo/medo/25642
+#EXTINF:-1,FR:RMC_SPORT_ACCESS_2
+http://eaiptv.net:8888/medo/medo/25643
+#EXTINF:-1,FR:RMC_SPORT_ACCESS_3
+http://eaiptv.net:8888/medo/medo/25644
 #EXTINF:-1,PT: SPORT TV 1 HD
 http://38.143.137.105:8080/5322/5322/26627
 #EXTINF:-1,PT: SPORT TV 2 HD
