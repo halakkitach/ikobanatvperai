@@ -806,14 +806,14 @@ http://iptv.tvmalaysia.cc:80/186867/186867/9029
 http://goldentv.tech:25461/rachman/rachman/25016
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
-#EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 1
-http://vmp343.ddnsking.com:80/6TsHqtha5/Wbz13J8d2w/549015
-#EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 2
-http://vmp343.ddnsking.com:80/6TsHqtha5/Wbz13J8d2w/549016
-#EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 3
-http://vmp343.ddnsking.com:80/6TsHqtha5/Wbz13J8d2w/549017
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://vmp343.ddnsking.com:80/6TsHqtha5/Wbz13J8d2w/549018
+#EXTINF:-1,UK: BT SPORT 1
+http://vmp343.ddnsking.com:80/pari/pari/549015
+#EXTINF:-1,UK: BT SPORT 2
+http://vmp343.ddnsking.com:80/pari/pari/549016
+#EXTINF:-1,UK: BT SPORT 3
+http://vmp343.ddnsking.com:80/pari/pari/549017
+#EXTINF:-1,UK: BT SPORT ESPN
+http://vmp343.ddnsking.com:80/pari/pari/549018
 #EXTINF:-1,UK FHD  Premier Sports 2 ( Irish Version )
 http://vmp343.ddnsking.com:80/david2/david2/549014
 #EXTINF:-1,UK FHD  Premier Sports 1 ( Irish Version )
@@ -872,62 +872,10 @@ http://vmp343.ddnsking.com:80/david2/david2/549005
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/9880
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
-#EXTINF:-1,FR RMC SPORT 1 HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279116
-#EXTINF:-1,FR: RMC SPORT 2 HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1938
-#EXTINF:-1,FR RMC SPORT 2 HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37158
-#EXTINF:-1,FR: RMC SPORT 3 HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279991
-#EXTINF:-1,FR RMC SPORT 3 HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282827
-#EXTINF:-1,FR: RMC SPORT 4 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279752
-#EXTINF:-1,FR RMC SPORT 4 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279844
-#EXTINF:-1,FR: RMC SPORT 5 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1940
 #EXTINF:-1,TR: beIN SPORTS 1 HD
 http://portal.zexo.site:8080/zero/zero/2
 #EXTINF:-1,TR: beIN SPORTS 2 HD
 http://portal.zexo.site:8080/zero/zero/4
-#EXTINF:-1,TR: beIN Sports 3 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1739
-#EXTINF:-1,TR: beIN Sports 4 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7450
-#EXTINF:-1,WORLD SPORT: SUPER SPORT LALIGA
-http://vmp343.ddnsking.com:80/david2/david2/394991
-#EXTINF:-1,WORLD SPORT: SUPER SPORT PREMIER LEAUGE
-http://vmp343.ddnsking.com:80/david2/david2/394993
-#EXTINF:-1,WORLD SPORT: SUPER SPORT FOOTBALL
-http://vmp343.ddnsking.com:80/david2/david2/394994
-#EXTINF:-1,WORLD SPORT: SUPER SPORT GRANDSTAND
-http://vmp343.ddnsking.com:80/david2/david2/394995
-#EXTINF:-1,WORLD SPORT: SUPER SPORT ACTION
-http://vmp343.ddnsking.com:80/david2/david2/394996
-#EXTINF:-1,WORLD SPORT: SUPER SPORT RUGBY
-http://vmp343.ddnsking.com:80/david2/david2/394997
-#EXTINF:-1,WORLD SPORT: SUPER SPORT CRICKET
-http://vmp343.ddnsking.com:80/david2/david2/394998
-#EXTINF:-1,WORLD SPORT: SUPER SPORT BLITZ
-http://vmp343.ddnsking.com:80/david2/david2/394999
-#EXTINF:-1,WORLD SPORT: SUPER SPORT MAXIMO
-http://vmp343.ddnsking.com:80/david2/david2/395000
-#EXTINF:-1,WORLD SPORT: SUPER SPORT GOLF
-http://vmp343.ddnsking.com:80/david2/david2/395001
-#EXTINF:-1,WORLD SPORT: SUPER SPORT TENNIS
-http://vmp343.ddnsking.com:80/david2/david2/395002
-#EXTINF:-1,WORLD SPORT: SUPER SPORT PLAY
-http://vmp343.ddnsking.com:80/david2/david2/395003
-#EXTINF:-1,WORLD SPORT: SUPER SPORT MOTORSPORT
-http://vmp343.ddnsking.com:80/david2/david2/395004
-#EXTINF:-1 tvg-id="" tvg-name=" EU SPORT | beIN SPORTS ENGLISH HD 1" tvg-logo="http://rockets.ws/logo/euros.png" group-title="TV SPORT", EU SPORT | beIN SPORTS ENGLISH HD 1
-http://pprotv.com:80/06169559/06169559/101157
-#EXTINF:-1 tvg-id="" tvg-name=" EU SPORT | beIN SPORTS ENGLISH HD 2" tvg-logo="http://rockets.ws/logo/euros.png" group-title="TV SPORT", EU SPORT | beIN SPORTS ENGLISH HD 2
-http://pprotv.com:80/06169559/06169559/101158
-#EXTINF:-1 tvg-id="" tvg-name="  EU SPORT | beIN SPORTS ENGLISH HD 3" tvg-logo="http://rockets.ws/logo/euros.png" group-title="TV SPORT",  EU SPORT | beIN SPORTS ENGLISH HD 3
-http://pprotv.com:80/06169559/06169559/101159
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BEIN ENG 1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BEIN ENG 2
@@ -946,18 +894,6 @@ http://sonyiptv.net:8080/shan/shan/205895
 http://sonyiptv.net:8080/shan/shan/205896
 #EXTINF:-1,AR | BEIN SPORT 3 ENGLISH HD
 http://sonyiptv.net:8080/shan/shan/205897
-#EXTINF:-1,QA: beIN Sports English 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281444
-#EXTINF:-1,QA beIN Sports English 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290192
-#EXTINF:-1,QA: beIN Sports English 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/111
-#EXTINF:-1,QA beIN Sports English 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/291086
-#EXTINF:-1,QA: beIN Sports English 3 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/267769
-#EXTINF:-1,QA beIN Sports English 3 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290225
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="TV SPORT",Unifi Sports 1
@@ -1057,18 +993,6 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://vmp343.ddnsking.com:80/david2/david2/435332
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://vmp343.ddnsking.com:80/david2/david2/435333
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://vmp343.ddnsking.com:80/david2/david2/435334
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://vmp343.ddnsking.com:80/david2/david2/435331
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://vmp343.ddnsking.com:80/david2/david2/435335
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://vmp343.ddnsking.com:80/david2/david2/435336
 #EXTINF:-1,PT: SPORT TV 1 HD
 http://38.143.137.105:8080/5322/5322/26627
 #EXTINF:-1,PT: SPORT TV 2 HD
@@ -1108,19 +1032,6 @@ https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nR
 
 #EXTINF:0 tvg-id="ext" group-title="TV ENTERTAIN", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
-#EXTINF:-1,QA: Fox Action Movies HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283181
-#EXTINF:-1,QA: Fox Crime HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/267233
-#EXTINF:-1,QA: Fox Life HD
-https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
-#EXTINF:-1,QA: FOX Movies FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280688
-#EXTINF:-1,QA: Fox Rewayat HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/267065
-#EXTINF:-1 tvg-id="CitraDangdut.id" group-title="TV ENTERTAIN" tvg-logo="https://www.useetv.com/pimages/logo_citradangdut_small.png",Citra Dangdut
-http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=citradangdut&bandwidth=default&sync=0
-
 #EXTINF:-1 tvg-id="CitraDrama.id" group-title="TV ENTERTAIN" tvg-logo="https://www.useetv.com/pimages/logo_citradrama_small.png?v=2.0.0.15",Citra Drama
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=cdrama&bandwidth=default&sync=0
 
@@ -1342,30 +1253,7 @@ http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="TV ENTERTAIN",MOVIES GROUP 4
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
 #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX | ACTION 1" tvg-logo="http://rockets.ws/logo/netflixar.png" group-title="TV ENTERTAIN",NETFLIX | ACTION 1
-http://pprotv.com:80/06169559/06169559/28365
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX | ACTION 2" tvg-logo="http://rockets.ws/logo/netflixar.png" group-title="TV ENTERTAIN",NETFLIX | ACTION 2
-http://pprotv.com:80/06169559/06169559/28368
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX | ACTION 3" tvg-logo="http://rockets.ws/logo/netflixar.png" group-title="TV ENTERTAIN",NETFLIX | ACTION 3
-http://pprotv.com:80/06169559/06169559/28369
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX | ACTION 4" tvg-logo="http://rockets.ws/logo/netflixar.png" group-title="TV ENTERTAIN",NETFLIX | ACTION 4
-http://pprotv.com:80/06169559/06169559/28370
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX | ACTION 5" tvg-logo="http://rockets.ws/logo/netflixar.png" group-title="TV ENTERTAIN",NETFLIX | ACTION 5
-http://pprotv.com:80/06169559/06169559/28371
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX | ACTION 6" tvg-logo="http://rockets.ws/logo/netflixar.png" group-title="TV ENTERTAIN",NETFLIX | ACTION 6
-http://pprotv.com:80/06169559/06169559/28372
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX | ACTION 7" tvg-logo="http://rockets.ws/logo/netflixar.png" group-title="TV ENTERTAIN",NETFLIX | ACTION 7
-http://pprotv.com:80/06169559/06169559/28373
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX | ACTION 8" tvg-logo="http://rockets.ws/logo/netflixar.png" group-title="TV ENTERTAIN",NETFLIX | ACTION 8
-http://pprotv.com:80/06169559/06169559/28374
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX | ACTION 9" tvg-logo="http://rockets.ws/logo/netflixar.png" group-title="TV ENTERTAIN",NETFLIX | ACTION 9
-http://pprotv.com:80/06169559/06169559/28375
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX | ACTION 10" tvg-logo="http://rockets.ws/logo/netflixar.png" group-title="TV ENTERTAIN",NETFLIX | ACTION 10
-http://pprotv.com:80/06169559/06169559/28366
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX | ACTION 11" tvg-logo="http://rockets.ws/logo/netflixar.png" group-title="TV ENTERTAIN",NETFLIX | ACTION 11
-http://pprotv.com:80/06169559/06169559/28367
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
-
 #EXTINF:0 tvg-id="ext" group-title="TV MUSIC", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1,IN: Zing
