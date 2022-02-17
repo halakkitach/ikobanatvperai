@@ -781,14 +781,14 @@ http://iptv.tvmalaysia.cc:80/186867/186867/9029
 http://goldentv.tech:25461/rachman/rachman/25016
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
-#EXTINF:-1,|UK| BT SPORT 1 FHD
-http://eaiptv.net:8888/medo/medo/59479
-#EXTINF:-1,|UK| BT SPORT 2 FHD
-http://eaiptv.net:8888/medo/medo/59481
-#EXTINF:-1,|UK| BT SPORT 3 FHD
-http://eaiptv.net:8888/medo/medo/59483
-#EXTINF:-1,|UK| BT SPORT ESPN FHD
-http://eaiptv.net:8888/medo/medo/59485
+#EXTINF:-1,UK: BT SPORT 1
+http://vmp343.ddnsking.com:80/david2/david2/549015
+#EXTINF:-1,UK: BT SPORT 2
+http://vmp343.ddnsking.com:80/david2/david2/549016
+#EXTINF:-1,UK: BT SPORT 3
+http://vmp343.ddnsking.com:80/david2/david2/549017
+#EXTINF:-1,UK: BT SPORT ESPN
+http://vmp343.ddnsking.com:80/david2/david2/549018
 #EXTINF:-1,UK: Free Sports HD
 http://38.143.137.105:8080/5322/5322/315504
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 1 BACKUP
@@ -807,6 +807,10 @@ http://613922723769270650.nicebig.xyz:80/h21041003/651032140/270650
 http://613922723769276438.nicebig.xyz:80/h21041003/651032140/276438
 #EXTINF:-1,UK: BT Sport ESPN HD BACKUP II
 http://613922723769277622.nicebig.xyz:80/h21041003/651032140/277622
+#EXTINF:-1,UK: EUROSPORT 1
+http://vmp343.ddnsking.com:80/david2/david2/549011
+#EXTINF:-1,UK: EUROSPORT 2
+http://vmp343.ddnsking.com:80/david2/david2/549012
 #EXTINF:-1,UK: Eurosport 1 HD
 http://38.143.137.105:8080/5322/5322/392996
 #EXTINF:-1,UK: Eurosport 2 HD
