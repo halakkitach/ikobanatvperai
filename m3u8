@@ -775,6 +775,10 @@ https://wopep.com/02_PremierHD4_720p/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/186867/186867/6707
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="" group-title="TV SPORT",Arena 2
 http://iptv.tvmalaysia.cc:80/186867/186867/9028
+#EXTINF:-1,MY: Astro Arena 2 HD BACKUP
+http://iptvtree.net:8080/15247/6bc4e63e/287793
+#EXTINF:-1,MY: Astro Arena HD BACKUP
+http://iptvtree.net:8080/15247/6bc4e63e/157485
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="TV SPORT",ASTRO SUPERSPORT HD
 http://iptv.tvmalaysia.cc:80/186867/186867/6708
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASSP 1" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png" group-title="TV SPORT",ASSP 1
@@ -816,11 +820,11 @@ http://sonyiptv.net:8080/shan/shan/179904
 #EXTINF:-1,UK: BT Sport ESPN HD BACKUP
 http://sonyiptv.net:8080/shan/shan/179906
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 1 BACKUP II
-http://613922723769270649.nicebig.xyz:80/h21041003/651032140/270649
+http://aumaletv.com:25461/Sadek/asd123/62348
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 2 BACKUP II
-http://613922723769270650.nicebig.xyz:80/h21041003/651032140/270650
+http://aumaletv.com:25461/Sadek/asd123/62349
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 3 BACKUP II
-http://613922723769276438.nicebig.xyz:80/h21041003/651032140/276438
+http://aumaletv.com:25461/Sadek/asd123/62350
 #EXTINF:-1,UK: BT Sport ESPN HD BACKUP II
 http://613922723769277622.nicebig.xyz:80/h21041003/651032140/277622
 #EXTINF:-1,UK: EUROSPORT 1
@@ -859,14 +863,6 @@ http://vmp343.ddnsking.com:80/david2/david2/549005
 http://aumaletv.com:25461/Sadek/asd123/38650
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
-#EXTINF:-1,TR: beIN SPORTS 1 HD
-http://portal.zexo.site:8080/zero/zero/2
-#EXTINF:-1,TR: beIN SPORTS 2 HD
-http://portal.zexo.site:8080/zero/zero/4
-#EXTINF:-1,TR: BEIN SPORTS 3 FHD
-http://aumaletv.com:25461/Sadek/asd123/62258
-#EXTINF:-1,TR: BEIN SPORTS 4 FHD
-http://aumaletv.com:25461/Sadek/asd123/62260
 #EXTINF:-1,WORLD SPORT: SUPER SPORT LALIGA
 http://vmp343.ddnsking.com:80/david2/david2/394991
 #EXTINF:-1,WORLD SPORT: SUPER SPORT PREMIER LEAUGE
@@ -899,6 +895,14 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BEIN ENG 3
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+#EXTINF:-1,TR: beIN SPORTS 1 HD
+http://portal.zexo.site:8080/zero/zero/2
+#EXTINF:-1,TR: beIN SPORTS 2 HD
+http://portal.zexo.site:8080/zero/zero/4
+#EXTINF:-1,TR: BEIN SPORTS 3 FHD
+http://aumaletv.com:25461/Sadek/asd123/62258
+#EXTINF:-1,TR: BEIN SPORTS 4 FHD
+http://aumaletv.com:25461/Sadek/asd123/62260
 #EXTINF:-1,AR | BEIN SPORT 1 ENGLISH HD
 http://sonyiptv.net:8080/shan/shan/205895
 #EXTINF:-1,AR | BEIN SPORT 2 ENGLISH HD
