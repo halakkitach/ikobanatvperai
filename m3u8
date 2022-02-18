@@ -730,7 +730,7 @@ https://liveanevia.mncnow.id:443/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",Soccer channel 
 https://liveanevia.mncnow.id:443/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 #EXTINF:-1 group-title="TV SPORT", NBA 
-http://mantul.biz.id:8888/Manuel-Spain/8opbS3oMCp/14857
+http://15.235.142.228:8080/live/hometvfree/selaludihati/75.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFF U23 1
 http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFF U23 2
