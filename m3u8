@@ -743,6 +743,14 @@ http://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
 http://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
+#EXTINF:-1,TH: TRUESPORT 1
+https://sport.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1,TH: TRUESPORT 2
+https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1,TH: TRUESPORT 3
+https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1,TH: TRUESPORT 4
+https://sport.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCQ1fbG/Tpf.png" group-title="TV SPORT", PREMIER FOOTBALL HD 1
 https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4t0NRM6/Tpf2.png" group-title="TV SPORT", PREMIER FOOTBALL HD 2
