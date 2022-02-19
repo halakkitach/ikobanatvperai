@@ -880,6 +880,28 @@ http://vmp343.ddnsking.com:80/david2/david2/395002
 http://vmp343.ddnsking.com:80/david2/david2/395003
 #EXTINF:-1,WORLD SPORT: SUPER SPORT MOTORSPORT
 http://vmp343.ddnsking.com:80/david2/david2/395004
+#EXTINF:-1, Super Sports RUBGY
+http://185.205.201.44:8015/play/a049/index.m3u8
+#EXTINF:-1,Super Sports La Liga HD
+http://185.205.201.44:8015/play/a03t/index.m3u8
+#EXTINF:-1,Super Sports Premier League HD
+http://185.205.201.44:8015/play/a03u/index.m3u8
+#EXTINF:-1,Super Sports Tennis HD
+http://185.205.201.44:8015/play/a044/index.m3u8
+#EXTINF:-1,Super Sports Variety 1 HD
+http://185.205.201.44:8015/play/a03k/index.m3u8
+#EXTINF:-1,Super Sports Variety 2
+http://185.205.201.44:8015/play/a03l/index.m3u8
+#EXTINF:-1,Super Sports Variety 3
+http://185.205.201.44:8015/play/a03m/index.m3u8
+#EXTINF:-1,Super Sports Variety 4
+http://185.205.201.44:8015/play/a03n/index.m3u8
+#EXTINF:-1,Super Sports Action HD
+http://185.205.201.44:8015/play/a03w/index.m3u8
+#EXTINF:-1,TELEMUNDO
+http://185.205.201.44:8015/play/a048/index.m3u8
+#EXTINF:-1,WWE
+http://185.205.201.44:8015/play/a03o/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BEIN ENG 1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BEIN ENG 2
