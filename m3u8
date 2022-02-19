@@ -884,28 +884,6 @@ http://vmp343.ddnsking.com:80/david2/david2/395002
 http://vmp343.ddnsking.com:80/david2/david2/395003
 #EXTINF:-1,WORLD SPORT: SUPER SPORT MOTORSPORT
 http://vmp343.ddnsking.com:80/david2/david2/395004
-#EXTINF:-1, Super Sports RUBGY
-http://185.205.201.44:8015/play/a049/index.m3u8
-#EXTINF:-1,Super Sports La Liga HD
-http://185.205.201.44:8015/play/a03t/index.m3u8
-#EXTINF:-1,Super Sports Premier League HD
-http://185.205.201.44:8015/play/a03u/index.m3u8
-#EXTINF:-1,Super Sports Tennis HD
-http://185.205.201.44:8015/play/a044/index.m3u8
-#EXTINF:-1,Super Sports Variety 1 HD
-http://185.205.201.44:8015/play/a03k/index.m3u8
-#EXTINF:-1,Super Sports Variety 2
-http://185.205.201.44:8015/play/a03l/index.m3u8
-#EXTINF:-1,Super Sports Variety 3
-http://185.205.201.44:8015/play/a03m/index.m3u8
-#EXTINF:-1,Super Sports Variety 4
-http://185.205.201.44:8015/play/a03n/index.m3u8
-#EXTINF:-1,Super Sports Action HD
-http://185.205.201.44:8015/play/a03w/index.m3u8
-#EXTINF:-1,TELEMUNDO
-http://185.205.201.44:8015/play/a048/index.m3u8
-#EXTINF:-1,WWE
-http://185.205.201.44:8015/play/a03o/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BEIN ENG 1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BEIN ENG 2
@@ -1018,6 +996,40 @@ http://goldentv.tech:25461/rachman/rachman/25209
 http://goldentv.tech:25461/rachman/rachman/25208
 #EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 1 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="TV SPORT",TATA |  SONY TEN 1 FHD
 http://goldentv.tech:25461/rachman/rachman/25207
+#EXTINF: -1 tvg-id="ts155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="TV SPORT", Sony Six HD
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Six_HD&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_HD_Bengali.png" group-title="TV SPORT", Sony Six HD Bengali
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Sony_Six_HD_Bengali&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_HD_Malayalam.png" group-title="TV SPORT", Sony Six HD Malayalam
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Sony_Six_HD_Malayalam&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts525" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD_Malayalam.png" group-title="TV SPORT", Sony Six SD Malayalam
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Sony_Six_SD_Malayalam&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="TV SPORT", Ten 4 HD Tamil
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_4_HD_Tamil&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="TV SPORT", Ten 4 HD Telugu
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_4_HD_Telugu&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="TV SPORT", Ten 4 HD Telugu
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_4_Telugu&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="TV SPORT", Ten 4 HD Telugu
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_4_Tamil&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="TV SPORT", Ten 1 HD
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_HD&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts891" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="TV SPORT", Ten 2 HD
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten2_HD&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts892" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="TV SPORT", Ten 3 HD
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten3_HD&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts875" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="TV SPORT", Eurosport HD
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Dsports_HD&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts514" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="TV SPORT", Ten 1
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_1&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts523" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="TV SPORT", Ten 2
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_2&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts524" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="TV SPORT", Ten 3
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_3&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts525" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="TV SPORT", Sony Six SD
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Sony_Six_SD&q=800&e=play.m3u8
+#EXTINF: -1 tvg-id="ts204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="TV SPORT", DD Sports
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=DD_Sports&q=800&e=play.m3u8
 #EXTINF:-1,EX-YU: SPORT KLUB 1 HR
 http://38.143.137.105:8080/5322/5322/16985
 #EXTINF:-1,EX-YU: SPORT KLUB 2 .HR
