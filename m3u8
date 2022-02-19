@@ -1008,16 +1008,6 @@ http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten2_HD&q=800&e=play.m3u8
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten3_HD&q=800&e=play.m3u8
 #EXTINF: -1 tvg-id="ts875" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="TV SPORT", Eurosport HD
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Dsports_HD&q=800&e=play.m3u8
-#EXTINF: -1 tvg-id="ts514" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="TV SPORT", Ten 1
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_1&q=800&e=play.m3u8
-#EXTINF: -1 tvg-id="ts523" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="TV SPORT", Ten 2
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_2&q=800&e=play.m3u8
-#EXTINF: -1 tvg-id="ts524" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="TV SPORT", Ten 3
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_3&q=800&e=play.m3u8
-#EXTINF: -1 tvg-id="ts525" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="TV SPORT", Sony Six SD
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Sony_Six_SD&q=800&e=play.m3u8
-#EXTINF: -1 tvg-id="ts204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="TV SPORT", DD Sports
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=DD_Sports&q=800&e=play.m3u8
 #EXTINF:-1,EX-YU: SPORT KLUB 1 HR
 http://38.143.137.105:8080/5322/5322/16985
 #EXTINF:-1,EX-YU: SPORT KLUB 2 .HR
