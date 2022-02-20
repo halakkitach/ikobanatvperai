@@ -990,16 +990,20 @@ http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten2_HD&q=800&e=play.m3u8
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten3_HD&q=800&e=play.m3u8
 #EXTINF: -1 tvg-id="ts875" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="TV SPORT", Eurosport HD
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Dsports_HD&q=800&e=play.m3u8
-#EXTINF:-1,EX: YU SPORT KLUB 1
-http://bizimip.com:8000/live:brkamg/CboHauTOEr/1361
-#EXTINF:-1,EX YU: SPORT KLUB 2
-http://bizimip.com:8000/live:brkamg/CboHauTOEr/1293
-#EXTINF:-1,EX YU: SPORT KLUB 3
-http://bizimip.com:8000/live:brkamg/CboHauTOEr/1343
-#EXTINF:-1,EX YU: SPORT KLUB 4
-http://bizimip.com:8000/live:brkamg/CboHauTOEr/1342
-#EXTINF:-1,EX YU: SPORT KLUB 5
-http://bizimip.com:8000/live:brkamg/CboHauTOEr/850
+#EXTINF:-1,EX-YU: SPORT KLUB 1 HR
+http://breakingcable.xyz:80/Rwilliams/Rwilliams/650399
+#EXTINF:-1,EX-YU: SPORT KLUB 2 HR
+http://breakingcable.xyz:80/Rwilliams/Rwilliams/650400
+#EXTINF:-1,EX-YU: SPORT KLUB 3 HR
+http://breakingcable.xyz:80/Rwilliams/Rwilliams/650401
+#EXTINF:-1,EX-YU: SPORT KLUB 4 HR
+http://breakingcable.xyz:80/Rwilliams/Rwilliams/650402
+#EXTINF:-1,EX-YU: SPORT KLUB 1 SRB
+http://breakingcable.xyz:80/Rwilliams/Rwilliams/650403
+#EXTINF:-1,EX-YU: SPORT KLUB 2 SRB
+http://breakingcable.xyz:80/Rwilliams/Rwilliams/650404
+#EXTINF:-1,EX-YU: SPORT KLUB 3 SRB
+http://breakingcable.xyz:80/Rwilliams/Rwilliams/650405
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1 group-title="TV SPORT", Look Sport 1
@@ -1027,16 +1031,16 @@ http://iptvtree.net:8080/15247/6bc4e63e/282827
 http://iptvtree.net:8080/15247/6bc4e63e/279752
 #EXTINF:-1,FR RMC SPORT 4 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/279844
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://38.143.137.105:8080/5322/5322/26627
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://38.143.137.105:8080/5322/5322/26628
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://38.143.137.105:8080/5322/5322/26629
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://38.143.137.105:8080/5322/5322/26630
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://38.143.137.105:8080/5322/5322/26631
+#EXTINF:-1,PT: SPORT TV 1 FullHD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/280
+#EXTINF:-1,PT: SPORT TV 2 FullHD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/281
+#EXTINF:-1,PT: SPORT TV 3 FullHD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/282
+#EXTINF:-1,PT: SPORT TV 4 FullHD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/283
+#EXTINF:-1,PT: SPORT TV 5 FullHD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/284
 #EXTINF:-1 group-title="TV SPORT", TNTSPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="TV SPORT", TNTSPORTS 2
