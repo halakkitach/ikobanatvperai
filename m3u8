@@ -780,7 +780,7 @@ http://breakingcable.xyz:80/Rwilliams/Rwilliams/315542
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png" group-title="TV SPORT",ASSP 2
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9025.m3u8
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png" group-title="TV SPORT",ASTRO SUPERSPORT 3 HD
-http://breakingcable.xyz:80/Rwilliams/Rwilliams/315543
+http://139.99.27.33:9998/assp3_720/tracks-v1a1/mono.m3u8?token=5640b3ae95952a2012c42051260747eb75a0d9a0-ef68db626abbf9a91dfa50c2dc6b4ee7-1645381671-1645370871
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3 (LIVE EPL ONLY)" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png" group-title="TV SPORT",ASSP 3 (LIVE EPL ONLY)
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9020.m3u8
 #EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png" group-title="TV SPORT",ASTRO SUPERSPORT 4 HD
