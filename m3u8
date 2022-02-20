@@ -691,7 +691,7 @@ https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1 group-title="TV SPORT",  Champions 1 TV
-http://tvn.x10.bz/vidio/master-8.m3u8
+http://tvn.x10.bz/vidio/master-6.m3u8
 #EXTINF:-1 group-title="TV SPORT",  Champions 2 TV
 http://tvn.x10.bz/vidio/master-7.m3u8
 #EXTINF:-1 group-title="TV SPORT",  Champions 3 TV
