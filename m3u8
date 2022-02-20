@@ -695,9 +695,9 @@ http://tvn.x10.bz/vidio/master-8.m3u8
 #EXTINF:-1 group-title="TV SPORT",  Champions 2 TV
 http://tvn.x10.bz/vidio/master-7.m3u8
 #EXTINF:-1 group-title="TV SPORT",  Champions 3 TV
-http://tvn.x10.bz/vidio/channel/master-8.m3u8
+http://tvn.x10.bz/vidio/master-8.m3u8
 #EXTINF:-1 group-title="TV SPORT",  Champions 4 TV
-http://tvn.x10.bz/vidio/channel/master-17.m3u8
+http://tvn.x10.bz/vidio/master-17.m3u8
 #EXTINF:-1 group-title="TV SPORT",  ELEVENSPORT ASIA 1
 https://europe-west-hls.mls.mycujoo.tv/esgp/ckze22hzk000e0188jlzvr6d2/720p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
