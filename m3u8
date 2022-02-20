@@ -1007,7 +1007,8 @@ http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47832
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1 group-title="TV SPORT", Look Sport 1
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=#EXTINF:-1 group-title="TV SPORT", Look Sport 2
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 group-title="TV SPORT", Look Sport 2
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 group-title="TV SPORT", Look Sport 3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
