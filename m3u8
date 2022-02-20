@@ -411,8 +411,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
-#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",CARTOON NETWORK
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5f99aff4-a47b-4321-be66-c53e3289ebe1)/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA", DONASI GOPAY 0851-5697-0606
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
 
@@ -830,9 +828,9 @@ http://vmp343.ddnsking.com:80/david2/david2/549011
 #EXTINF:-1,UK: EUROSPORT 2
 http://vmp343.ddnsking.com:80/david2/david2/549012
 #EXTINF:-1,UK: Eurosport 1 HD
-http://38.143.137.105:8080/5322/5322/392996
+http://sonyiptv.net:8080/223140/223140/207069
 #EXTINF:-1,UK: Eurosport 2 HD
-http://38.143.137.105:8080/5322/5322/392997
+http://sonyiptv.net:8080/223140/223140/207070
 #EXTINF:-1,SKY-SPORTS ARENA
 http://vmp343.ddnsking.com:80/david2/david2/549007
 #EXTINF:-1,SKY-SPORTS CRICKET
@@ -840,19 +838,19 @@ http://vmp343.ddnsking.com:80/david2/david2/549004
 #EXTINF:-1,SKY-SPORTS FOOTBALL BACKUP
 http://vmp343.ddnsking.com:80/david2/david2/549003
 #EXTINF:-1,SKY-SPORTS FOOTBALL
-http://sonyiptv.net:8080/shan/shan/179910
+http://sonyiptv.net:8080/223140/223140/179910
 #EXTINF:-1,SKY-SPORTS MAIN EVENT BACKUP
 http://vmp343.ddnsking.com:80/david2/david2/549001
 #EXTINF:-1,SKY-SPORTS MAIN EVENT
-http://sonyiptv.net:8080/shan/shan/179911
+http://sonyiptv.net:8080/223140/223140/179911
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE
-http://sonyiptv.net:8080/shan/shan/179914
+http://sonyiptv.net:8080/223140/223140/179914
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE BACKUP
 http://vmp343.ddnsking.com:80/david2/david2/549002
 #EXTINF:-1,SKY-SPORTS RACING
 http://vmp343.ddnsking.com:80/david2/david2/549008
 #EXTINF:-1,SKY-SPORTS F1 BACKUP
-http://sonyiptv.net:8080/shan/shan/179918
+http://sonyiptv.net:8080/223140/223140/179918
 #EXTINF:-1,SKY-SPORTS F1
 http://vmp343.ddnsking.com:80/david2/david2/549070
 #EXTINF:-1,SKY-SPORTS GOLF
