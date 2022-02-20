@@ -990,14 +990,16 @@ http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten2_HD&q=800&e=play.m3u8
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten3_HD&q=800&e=play.m3u8
 #EXTINF: -1 tvg-id="ts875" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="TV SPORT", Eurosport HD
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Dsports_HD&q=800&e=play.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 1 HR
-http://38.143.137.105:8080/5322/5322/16985
-#EXTINF:-1,EX-YU: SPORT KLUB 2 .HR
-http://38.143.137.105:8080/5322/5322/16986
-#EXTINF:-1,EX-YU: SPORT KLUB 3 HR
-http://38.143.137.105:8080/5322/5322/16987
-#EXTINF:-1,EX-YU: SPORTKLUB 4 SR
-http://38.143.137.105:8080/5322/5322/16989
+#EXTINF:-1,EX: YU SPORT KLUB 1
+http://bizimip.com:8000/live:brkamg/CboHauTOEr/1361
+#EXTINF:-1,EX YU: SPORT KLUB 2
+http://bizimip.com:8000/live:brkamg/CboHauTOEr/1293
+#EXTINF:-1,EX YU: SPORT KLUB 3
+http://bizimip.com:8000/live:brkamg/CboHauTOEr/1343
+#EXTINF:-1,EX YU: SPORT KLUB 4
+http://bizimip.com:8000/live:brkamg/CboHauTOEr/1342
+#EXTINF:-1,EX YU: SPORT KLUB 5
+http://bizimip.com:8000/live:brkamg/CboHauTOEr/850
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1 group-title="TV SPORT", Look Sport 1
