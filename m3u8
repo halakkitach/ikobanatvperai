@@ -6,44 +6,26 @@
 
 #EXTINF:-1 group-title="LIVE EVENT", DONASI GOPAY 0851-5697-0606
 https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 07:00 WIB UFC
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/E-9dJbnzFuNVxGsrfzxERtuq95dtOyKlt1OeSfxysdFmcjwWPf9hc8YErqsnQd62iAQpHcthi8FAFvWI0v5hiw/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="LIVE EVENT",LIVE LIGA FUTSAL INDONESIA
 https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-0-8398078e17870b75a68e97392ca17db5
 https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
 
-#EXTINF:-1 group-title="LIVE EVENT", LIVE 15.00 WIB Badminton Asia Team Championships 2022.
-http://139.99.27.33:9998/assp4_720/tracks-v1a1/mono.m3u8?token=6c7760f4966a9f3a1dfd8b27dacfd35f8268097c-2b16ac646906c6c847221d1040b3f5d9-1645355837-1645345037
-https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
-
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB PSS VS BORNEO FC
-https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
-
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB BHAYANGKARA FC-VS-TR KABO
-http://175.41.151.141/m3u8/vid_Indosiar.m3u8 
-https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts 
-
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.30 WIB SERI A
-https://sport.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
-
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB AFF U 23 KAMBOJA VS TIMOR LESTE 
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB AFF U 23 MALAYSIA VS LAOS
 http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB AFF U 23 FILIPINA VS BRUNEI 
-http://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB  LA LIGA
+
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.30 WIB PERSIPURA-VS-MADURA UNITED
+https://etslive-2-vidio-com.akamaized.net/exp=1645377531~acl=/vp9/8025_stream.mpd!/vp9/8025/*~hmac=bc446ec74dcca77889ae68ef491e5f1be0b743bab1277eab57ebd2933c2adaa9/vp9/8025_stream.mpd
+http://175.41.151.141/m3u8/vid_Indosiar.m3u8 
+
+#EXTINF:-1 group-title="LIVE EVENT",LIVE LA LIGA
 http://vmp343.ddnsking.com:80/david2/david2/549034
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.45 WIB PSIS-VS-BALI UNITED
-https://etslive-2-vidio-com.akamaized.net/exp=1645377531~acl=/vp9/8025_stream.mpd!/vp9/8025/*~hmac=bc446ec74dcca77889ae68ef491e5f1be0b743bab1277eab57ebd2933c2adaa9/vp9/8025_stream.mpd
-http://175.41.151.141/m3u8/vid_Indosiar.m3u8 
-
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB  EPL
+#EXTINF:-1 group-title="LIVE EVENT",LIVE EPL
 http://vmp343.ddnsking.com:80/david2/david2/394980
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB  EPL BACKUP
+#EXTINF:-1 group-title="LIVE EVENT",LIVE EPL BACKUP
 http://vmp343.ddnsking.com:80/david2/david2/394993
 
 #EXTINF:-1 group-title="LIVE EVENT",LIVE LIGUE 1 PRANCIS
@@ -54,9 +36,6 @@ https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nR
 http://iptvtree.net:8080/15247/6bc4e63e/2431
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
-
-#EXTINF:-1 group-title="LIVE EVENT", OLIMPIADE MUSIM DINGIN BEIJING 2022
-http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT", NBA
 https://d1eqmybbugbqy9.cloudfront.net/hls/espn/chunks.m3u8?P135
@@ -820,6 +799,8 @@ http://sonyiptv.net:8080/223140/223140/179903
 http://sonyiptv.net:8080/223140/223140/179904
 #EXTINF:-1,UK: BT Sport ESPN HD BACKUP II
 http://sonyiptv.net:8080/223140/223140/207066
+#EXTINF:-1,UK: EUROSPORT 1 GLOBAL
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1,UK: EUROSPORT 1
 http://vmp343.ddnsking.com:80/david2/david2/549011
 #EXTINF:-1,UK: EUROSPORT 2
@@ -1052,14 +1033,14 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
-#EXTINF:-1,PL: ELEVEN SPORT 1 FHD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47456
-#EXTINF:-1,PL: ELEVEN SPORT 2 FHD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47455
-#EXTINF:-1,PL: ELEVEN SPORT 3 FHD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47454
-#EXTINF:-1,PL: ELEVEN SPORT 4 FHD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/50293
+#EXTINF:-1,PL: Eleven Sports 1 HD
+http://sonyiptv.net:8080/223140/223140/208495
+#EXTINF:-1,PL: Eleven Sports 2 HD
+http://sonyiptv.net:8080/223140/223140/208496
+#EXTINF:-1,PL: Eleven Sports 3 HD
+http://sonyiptv.net:8080/223140/223140/208497
+#EXTINF:-1,PL: Eleven Sports 4 HD
+http://sonyiptv.net:8080/223140/223140/208498
 #EXTINF:-1 group-title="TV SPORT", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="TV SPORT", STADIUM
