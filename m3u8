@@ -714,15 +714,12 @@ https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="TV SPORT", TVRI SPORT
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:0 tvg-id="FOXSports1.us" group-title="TV SPORT",Fox Sports 1
-http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
-https://dl.dropboxusercontent.com/s/dcq3pnuvjnbgubb/halakkita_1080p.ts
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="TV SPORT",Fox Sports 2
-http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
-http://45.179.140.242:8000/play/a0k3
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="TV SPORT",FOX Sports 3
-http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
-http://45.179.140.242:8000/play/a0ik
+#EXTINF:-1,Fox Sports 1
+http://oscartv.mine.nu:25461/jmr1234/jmr1234/569
+#EXTINF:-1,Fox Sports 2
+http://oscartv.mine.nu:25461/jmr1234/jmr1234/570
+#EXTINF:-1,Fox Sports 3
+http://oscartv.mine.nu:25461/jmr1234/jmr1234/571
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",FIGHT SPORTS 
@@ -856,7 +853,7 @@ http://vmp343.ddnsking.com:80/david2/david2/549070
 #EXTINF:-1,SKY-SPORTS GOLF
 http://vmp343.ddnsking.com:80/david2/david2/549005
 #EXTINF:-1,IT | Sport Moto GP HD
-http://aumaletv.com:25461/Sadek/asd123/38650
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/686219
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1,WORLD SPORT: SUPER SPORT LALIGA
