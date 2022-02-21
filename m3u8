@@ -895,6 +895,12 @@ http://iptvtree.net:8080/15247/6bc4e63e/291086
 http://iptvtree.net:8080/15247/6bc4e63e/267769
 #EXTINF:-1,QA beIN Sports English 3 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/290225
+#EXTINF:-1,beIN Sports English 1 FHD VIP AR
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/689287
+#EXTINF:-1,beIN Sports English 2 FHD VIP AR
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/689288
+#EXTINF:-1,beIN Sports English 3 HD VIP AR
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/689289
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="TV SPORT",Unifi Sports 1
@@ -971,18 +977,12 @@ http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten2_HD&q=800&e=play.m3u8
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten3_HD&q=800&e=play.m3u8
 #EXTINF: -1 tvg-id="ts875" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="TV SPORT", Eurosport HD
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Dsports_HD&q=800&e=play.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 1
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/904
-#EXTINF:-1,EX-YU: SPORT KLUB 2
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/903
-#EXTINF:-1,EX-YU: SPORT KLUB 3
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/902
-#EXTINF:-1,EX-YU: SPORT KLUB 4
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47834
-#EXTINF:-1,EX-YU: SPORT KLUB 5
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47833
-#EXTINF:-1,EX-YU: SPORT KLUB 6
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47832
+#EXTINF:-1,Sport Klub 1 HD HR
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/53605
+#EXTINF:-1,Sport Klub 2 HD HR
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/9413
+#EXTINF:-1,Sport Klub 3 HD HR
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/53166
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1 group-title="TV SPORT", Look Sport 1
@@ -1011,16 +1011,32 @@ http://iptvtree.net:8080/15247/6bc4e63e/282827
 http://iptvtree.net:8080/15247/6bc4e63e/279752
 #EXTINF:-1,FR RMC SPORT 4 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/279844
-#EXTINF:-1,PT: SPORT TV 1 FullHD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/280
-#EXTINF:-1,PT: SPORT TV 2 FullHD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/281
-#EXTINF:-1,PT: SPORT TV 3 FullHD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/282
-#EXTINF:-1,PT: SPORT TV 4 FullHD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/283
-#EXTINF:-1,PT: SPORT TV 5 FullHD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/284
+#EXTINF:-1,Sport TV 1 HD PT
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/13096
+#EXTINF:-1,Sport TV 2 FHD PT
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/7481
+#EXTINF:-1,Sport TV 2 HD PT
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/8814
+#EXTINF:-1,Sport TV 2 PT
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/13093
+#EXTINF:-1,Sport TV 3 FHD PT
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/8817
+#EXTINF:-1,Sport TV 3 HD PT
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/8813
+#EXTINF:-1,Sport TV 3 PT
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/13091
+#EXTINF:-1,Sport TV 4 FHD PT
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/8816
+#EXTINF:-1,Sport TV 4 PT
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/13089
+#EXTINF:-1,Sport TV 4 HD PT
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/7479
+#EXTINF:-1,Sport TV 5 FHD PT
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/7478
+#EXTINF:-1,Sport TV 5 HD PT
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/8812
+#EXTINF:-1,Sport TV 5 PT
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/13087
 #EXTINF:-1 group-title="TV SPORT", TNTSPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="TV SPORT", TNTSPORTS 2
@@ -1033,14 +1049,20 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
-#EXTINF:-1,PL: Eleven Sports 1 HD
-http://sonyiptv.net:8080/223140/223140/208495
-#EXTINF:-1,PL: Eleven Sports 2 HD
-http://sonyiptv.net:8080/223140/223140/208496
-#EXTINF:-1,PL: Eleven Sports 3 HD
-http://sonyiptv.net:8080/223140/223140/208497
-#EXTINF:-1,PL: Eleven Sports 4 HD
-http://sonyiptv.net:8080/223140/223140/208498
+#EXTINF:-1,Eleven Pro League FHD BE
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/684092
+#EXTINF:-1,Eleven Sports 1 FHD BE
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/683265
+#EXTINF:-1,Eleven Sports 2 FHD BE
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/683266
+#EXTINF:-1,Eleven Sports 1 FHD PL
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/524331
+#EXTINF:-1,Eleven Sports 2 FHD PL
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/99803
+#EXTINF:-1,Eleven Sports 3 FHD PL
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/99930
+#EXTINF:-1,Eleven Sports 4 HD PL
+http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/167186
 #EXTINF:-1 group-title="TV SPORT", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="TV SPORT", STADIUM
