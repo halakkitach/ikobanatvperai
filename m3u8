@@ -964,22 +964,18 @@ http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten2_HD&q=800&e=play.m3u8
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten3_HD&q=800&e=play.m3u8
 #EXTINF: -1 tvg-id="ts875" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="TV SPORT", Eurosport HD
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Dsports_HD&q=800&e=play.m3u8
-#EXTINF:-1,Sport Klub 1 SRB ex-Yu
-http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/592
-#EXTINF:-1,Sport Klub HD 1 Srb ex-Yu
-http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/2279
-#EXTINF:-1,Sport Klub 2 SRB ex-Yu
-http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/591
-#EXTINF:-1,Sport Klub HD 2 Srb ex-Yu
-http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/2278
-#EXTINF:-1,Sport Klub 3 SRB ex-Yu
-http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/590
-#EXTINF:-1,Sport Klub HD 3 Srb ex-Yu
-http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/2277
-#EXTINF:-1,Sport Klub 4 SR ex-Yu
-http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/1173
-#EXTINF:-1,Sport Klub 5 SR ex-Yu
-http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/1172
+#EXTINF:-1,EX-YU Sport Klub 1 FHD
+http://iptvtree.net:8080/15247/6bc4e63e/282859
+#EXTINF:-1,EX-YU: Sport Klub 2 FHD
+http://iptvtree.net:8080/15247/6bc4e63e/283202
+#EXTINF:-1,EX-YU Sport Klub 2 FHD
+http://iptvtree.net:8080/15247/6bc4e63e/290052
+#EXTINF:-1,EX-YU: Sport Klub 3 FHD
+http://iptvtree.net:8080/15247/6bc4e63e/282759
+#EXTINF:-1,EX-YU: Sport Klub 4 FHD
+http://iptvtree.net:8080/15247/6bc4e63e/281896
+#EXTINF:-1,EX-YU: Sport Klub 5 HD
+http://iptvtree.net:8080/15247/6bc4e63e/3470
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1 group-title="TV SPORT", Look Sport 1
@@ -992,48 +988,24 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
-#EXTINF:-1,FR: RMC SPORT 1 FHD
-http://iptvtree.net:8080/15247/6bc4e63e/1937
 #EXTINF:-1,FR RMC SPORT 1 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/279116
 #EXTINF:-1,FR: RMC SPORT 2 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/1938
-#EXTINF:-1,FR RMC SPORT 2 FHD
-http://iptvtree.net:8080/15247/6bc4e63e/37158
 #EXTINF:-1,FR: RMC SPORT 3 HD
 http://iptvtree.net:8080/15247/6bc4e63e/279991
-#EXTINF:-1,FR RMC SPORT 3 HD
-http://iptvtree.net:8080/15247/6bc4e63e/282827
-#EXTINF:-1,FR: RMC SPORT 4 FHD
-http://iptvtree.net:8080/15247/6bc4e63e/279752
 #EXTINF:-1,FR RMC SPORT 4 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/279844
-#EXTINF:-1,Sport TV 1 HD PT
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/13096
-#EXTINF:-1,Sport TV 2 FHD PT
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/7481
-#EXTINF:-1,Sport TV 2 HD PT
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/8814
-#EXTINF:-1,Sport TV 2 PT
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/13093
-#EXTINF:-1,Sport TV 3 FHD PT
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/8817
-#EXTINF:-1,Sport TV 3 HD PT
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/8813
-#EXTINF:-1,Sport TV 3 PT
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/13091
-#EXTINF:-1,Sport TV 4 FHD PT
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/8816
-#EXTINF:-1,Sport TV 4 PT
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/13089
-#EXTINF:-1,Sport TV 4 HD PT
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/7479
-#EXTINF:-1,Sport TV 5 FHD PT
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/7478
-#EXTINF:-1,Sport TV 5 HD PT
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/8812
-#EXTINF:-1,Sport TV 5 PT
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/13087
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://breakingcable.xyz:80/Rwilliams/Rwilliams/284639
+#EXTINF:-1,PT: SPORT TV2 FHD
+http://breakingcable.xyz:80/Rwilliams/Rwilliams/284640
+#EXTINF:-1,PT: SPORT TV2 SD
+http://breakingcable.xyz:80/Rwilliams/Rwilliams/284642
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://breakingcable.xyz:80/Rwilliams/Rwilliams/284643
+#EXTINF:-1,PT: SPORT TV3 SD
+http://breakingcable.xyz:80/Rwilliams/Rwilliams/284646
 #EXTINF:-1 group-title="TV SPORT", TNTSPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="TV SPORT", TNTSPORTS 2
@@ -1048,18 +1020,12 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
 #EXTINF:-1,Eleven Pro League FHD BE
 http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/684092
-#EXTINF:-1,Eleven Sports 1 FHD BE
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/683265
-#EXTINF:-1,Eleven Sports 2 FHD BE
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/683266
-#EXTINF:-1,Eleven Sports 1 FHD PL
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/524331
-#EXTINF:-1,Eleven Sports 2 FHD PL
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/99803
-#EXTINF:-1,Eleven Sports 3 FHD PL
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/99930
-#EXTINF:-1,Eleven Sports 4 HD PL
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/167186
+#EXTINF:-1,BE: ELEVEN SPORTS 1 HD
+http://iptvtree.net:8080/15247/6bc4e63e/36420
+#EXTINF:-1,BE: ELEVEN SPORTS 2 HD
+http://iptvtree.net:8080/15247/6bc4e63e/82246
+#EXTINF:-1,BE: ELEVEN SPORTS 3 HD
+http://iptvtree.net:8080/15247/6bc4e63e/290476
 #EXTINF:-1 group-title="TV SPORT", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="TV SPORT", STADIUM
