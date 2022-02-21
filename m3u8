@@ -738,9 +738,9 @@ https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="TV SPORT" tvg-logo="https://i.ibb.co/KKsvZsD/Tpf4.png", PREMIER FOOTBALL HD 4
 https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png" group-title="TV SPORT",ASTRO Arena HD
-http://iptv.tvmalaysia.cc:80/186867/186867/6707
+http://iptv.tvmalaysia.cc:80/live/109789/109789/6707.m3u8
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="" group-title="TV SPORT",Arena 2
-http://iptv.tvmalaysia.cc:80/186867/186867/9028
+http://iptv.tvmalaysia.cc:80/live/109789/109789/9028.m3u8
 #EXTINF:-1,MY: Astro Arena 2 HD BACKUP
 http://foctv.xyz:25510/Imrany/BB1732/420
 #EXTINF:-1,MY: Astro Arena HD BACKUP
@@ -776,19 +776,19 @@ http://vmp343.ddnsking.com:80/david2/david2/549017
 #EXTINF:-1,UK: BT SPORT ESPN
 http://vmp343.ddnsking.com:80/david2/david2/549018
 #EXTINF:-1,UK: Free Sports HD
-http://38.143.137.105:8080/5322/5322/315504
+http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/50437
 #EXTINF:-1,UK106:Premiere Sport HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/793
+http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/1808
 #EXTINF:-1,UK144:Premier Sports 2
 http://cam2.abcnew.site:8880/kg12m3n1011/xcvss2342/28915
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 1 BACKUP
-http://mantul.biz.id:8888/Manuel-Spain/8opbS3oMCp/4803
+http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/370
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 2 BACKUP
-http://mantul.biz.id:8888/Manuel-Spain/8opbS3oMCp/4804
+http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/367
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 3 BACKUP
-http://mantul.biz.id:8888/Manuel-Spain/8opbS3oMCp/4805
+http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/365
 #EXTINF:-1,UK: BT Sport ESPN HD BACKUP
-http://mantul.biz.id:8888/Manuel-Spain/8opbS3oMCp/6703
+http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/1819
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 1 BACKUP II
 http://sonyiptv.net:8080/223140/223140/179902
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 2 BACKUP II
@@ -975,12 +975,22 @@ http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten2_HD&q=800&e=play.m3u8
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten3_HD&q=800&e=play.m3u8
 #EXTINF: -1 tvg-id="ts875" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="TV SPORT", Eurosport HD
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Dsports_HD&q=800&e=play.m3u8
-#EXTINF:-1,Sport Klub 1 HD HR
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/53605
-#EXTINF:-1,Sport Klub 2 HD HR
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/9413
-#EXTINF:-1,Sport Klub 3 HD HR
-http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/53166
+#EXTINF:-1,Sport Klub 1 SRB ex-Yu
+http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/592
+#EXTINF:-1,Sport Klub HD 1 Srb ex-Yu
+http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/2279
+#EXTINF:-1,Sport Klub 2 SRB ex-Yu
+http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/591
+#EXTINF:-1,Sport Klub HD 2 Srb ex-Yu
+http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/2278
+#EXTINF:-1,Sport Klub 3 SRB ex-Yu
+http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/590
+#EXTINF:-1,Sport Klub HD 3 Srb ex-Yu
+http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/2277
+#EXTINF:-1,Sport Klub 4 SR ex-Yu
+http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/1173
+#EXTINF:-1,Sport Klub 5 SR ex-Yu
+http://magmeg2mig4z.funtogether.xyz:8080/ofPI5rTKps/o1gzyN6vL4/1172
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1 group-title="TV SPORT", Look Sport 1
