@@ -11,12 +11,12 @@ https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-
 https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
 
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB AFF U 23 VIETNAM VS THAILAND
-http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+http://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB PSM MAKASSAR-VS-PERSIB
-http://175.41.151.141/m3u8/vid_Indosiar.m3u8 
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB PSM MAKASSAR-VS-PERSIB
+https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts 
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.45 WIB GARUDA SELECT 
-http://175.41.151.141/m3u8/vid_O_Channel.m3u8
+https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
 
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA CHAMPION CHELSEA VS LOSC
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten2_HD&q=800&e=play.m3u8
