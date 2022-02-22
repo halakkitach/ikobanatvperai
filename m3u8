@@ -795,9 +795,35 @@ https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/07/uVsOHy.png",BT Sport 1 th
 https://www.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/967-9676257_bt-sport-2-logo.png",BT Sport 2 th
-https://sporr.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/07/uVsWlq.png",BT Sport 3 th
-https://www.livestream88.com/sport/bt-sport-hd3/
+https://www.livedoomovie.com:4431/02_BTSPORTHD_3_720p/chunklist.m3u8
+#EXTINF:-1,UK: BT Sport 1 HD
+http://mantul.biz.id:8888/live/Arkan/54647/4803.m3u8
+#EXTINF:-1,UK: BT Sport 2 HD
+http://mantul.biz.id:8888/live/Arkan/54647/4804.m3u8
+#EXTINF:-1,UK: BT Sport 3 HD
+http://mantul.biz.id:8888/live/Arkan/54647/4805.m3u8
+#EXTINF:-1,UK: BT Sport Espn
+http://mantul.biz.id:8888/live/Arkan/54647/6703.m3u8
+#EXTINF:-1,UK: Sky Sport Arena
+http://mantul.biz.id:8888/live/Arkan/54647/6460.m3u8
+#EXTINF:-1,UK: Sky Sports Action
+http://mantul.biz.id:8888/live/Arkan/54647/4864.m3u8
+#EXTINF:-1,UK: Sky Sports Football
+http://mantul.biz.id:8888/live/Arkan/54647/6461.m3u8
+#EXTINF:-1,UK: Sky Sports Main Event
+http://mantul.biz.id:8888/live/Arkan/54647/4862.m3u8
+#EXTINF:-1,UK: Sky Sports Mix
+http://mantul.biz.id:8888/live/Arkan/54647/6459.m3u8
+#EXTINF:-1,UK: Sky SPORTS Premier League
+http://mantul.biz.id:8888/live/Arkan/54647/4696.m3u8
+#EXTINF:-1,VIP Sky Sport 1
+http://mantul.biz.id:8888/live/Arkan/54647/6249.m3u8
+#EXTINF:-1,VIP Sky Sport 2
+http://mantul.biz.id:8888/live/Arkan/54647/4637.m3u8
+#EXTINF:-1,VIP Sky Sport Football IT
+http://mantul.biz.id:8888/live/Arkan/54647/6544.m3u8
 #EXTINF:-1,UK: BT SPORT 1
 http://vmp343.ddnsking.com:80/david2/david2/549015
 #EXTINF:-1,UK: BT SPORT 2
