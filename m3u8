@@ -206,7 +206,7 @@ https://cdn09jtedge.useetv.com/joss/134/balitv/chunklist_w1041288394_b494100_sle
 #EXTINF:-1 group-title="INDONESIA", O Channel
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #EXTINF:-1 type="stream" tvg-id="ochannel.id" tvg-name="O Channel T2" tvg-logo="http://i.postimg.cc/25XZMzKK/O-CHANNEL.png" group-title="INDONESIA",O Channel BACKUP
-http://175.41.151.141/m3u8/vid_O_Channel.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1645530728~acl=/hls-p/ingest_206_*/*~hmac=1e74e613e54befaf0bc57daed2323656846a42c974f15c99e3e784fa903f67e0/hls-p/ingest_206_480p/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA", KPlus
 http://rr.dens.tv/h/h08/index.m3u8
