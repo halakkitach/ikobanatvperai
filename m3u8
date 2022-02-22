@@ -746,6 +746,14 @@ https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="TV SPORT" tvg-logo="https://i.ibb.co/KKsvZsD/Tpf4.png", PREMIER FOOTBALL HD 4
 https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="", Ais Play
+https://iioap-21iigk-agbmpd.googglecdns.com/edu/ch02/chunks.m3u8
+#EXTINF:-1 tvg-logo="", Ais Play
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch04/chunks.m3u8
+#EXTINF:-1 tvg-logo="", Ais Play
+https://iioap-21iigk-agbmpd.googglecdns.com/edu/ch06/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Ais Play
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch09/chunks.m3u8
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png" group-title="TV SPORT",ASTRO Arena HD
 http://iptv.tvmalaysia.cc:80/live/109789/109789/6707.m3u8
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="" group-title="TV SPORT",Arena 2
