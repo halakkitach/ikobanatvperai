@@ -792,11 +792,11 @@ http://goldentv.tech:25461/rachman/rachman/25016
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/07/uVsOHy.png",BT Sport 1 th
-https://www.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/967-9676257_bt-sport-2-logo.png",BT Sport 2 th
-https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://sport.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/07/uVsWlq.png",BT Sport 3 th
-https://www.livedoomovie.com:4431/02_BTSPORTHD_3_720p/chunklist.m3u8
+https://sport.livedoomovie.com/02_BTSPORTHD_3_720p/chunklist.m3u8
 #EXTINF:-1,UK: BT SPORT 1
 http://vmp343.ddnsking.com:80/david2/david2/549015
 #EXTINF:-1,UK: BT SPORT 2
