@@ -82,7 +82,7 @@ http://tvn.x10.bz/vidio/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD BACKUP
 http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD BACKUP II
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=indosiar&gumisasakTV=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPSZFMs/20200225-085643.png" group-title="INDONESIA",NET TV
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
@@ -187,7 +187,7 @@ http://rr2.dens.tv/s/s13/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/jtv.png" group-title="INDONESIA",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #EXTINF:-1 tvg-id="" tvg-name="INDO | JTV" tvg-logo="http://dusktill.masuk.web.id/img/jtv.png" group-title="INDONESIA",INDO | JTV
-https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
+http://live-birutv.com/play/jtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -206,7 +206,7 @@ https://cdn09jtedge.useetv.com/joss/134/balitv/chunklist_w1041288394_b494100_sle
 #EXTINF:-1 group-title="INDONESIA", O Channel
 http://210.210.155.35/session/e0c19ce8-790c-11ec-a7a0-c81f66f89318/x6bnqe/s/s73/index2.m3u8
 #EXTINF:-1 type="stream" tvg-id="ochannel.id" tvg-name="O Channel T2" tvg-logo="http://i.postimg.cc/25XZMzKK/O-CHANNEL.png" group-title="INDONESIA",O Channel BACKUP
-http://tvn.x10.bz/vidio/master-18.m3u8
+http://akudandia.xyz/locs/akudandia-206.m3u8
 #EXTINF:-1 group-title="INDONESIA", KPlus
 http://rr.dens.tv/h/h08/index.m3u8
 
