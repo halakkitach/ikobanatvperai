@@ -979,8 +979,16 @@ http://103.166.253.222/hls/sonyten1.m3u8
 http://103.166.253.222/hls/sonyten2.m3u8
 #EXTINF:-1,IN: SONY Ten 3 HD
 http://103.166.253.222/hls/sonyten3.m3u8
+#EXTINF:-1,IN: Star Sports 1
+http://103.170.140.8/hls/stersports1hd.m3u8
+#EXTINF:-1,IN: Star Sports select 2
+http://103.170.140.8/hls/select2.m3u8
+#EXTINF:-1,IN: Star sports select 1
+http://103.170.140.8/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1,IN: Star Sports 2 HD 
+http://103.170.140.8/hls/starsports2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY SIX FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="TV SPORT",TATA |  SONY SIX FHD
-http://goldentv.tech:25461/rachman/rachman/25206
+http://goldentv.tech:25461/rachman/rachman/25210
 #EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 3 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="TV SPORT",TATA |  SONY TEN 3 FHD
 http://goldentv.tech:25461/rachman/rachman/25209
 #EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 2 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="TV SPORT",TATA |  SONY TEN 2 FHD
