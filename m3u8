@@ -123,7 +123,7 @@ http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/rtv.png" group-title="INDONESIA",RTV
 https://on-load.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1 tvg-id="rtv.id" ch-number="5" tvg-name="RTV" tvg-logo="http://cdn.roll.my.id/img/rtv.png" group-title="INDONESIA", RTV BACKUP
-https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
+http://group2-swiftservesd-1.dens.tv/s/s012/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -138,6 +138,7 @@ https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 https://on-load.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 #EXTINF:-1tvg-id="metrotv.id" ch-number="11" tvg-name="METRO TV" tvg-logo="http://cdn.roll.my.id/img/metrotv.png" group-title="INDONESIA",METRO TV BACKUP
 http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
+http://rr.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mbCw3Q/20200225-090600.png" group-title="INDONESIA",CNN Indonesia HD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -162,14 +163,16 @@ https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/kompastv.png" group-title="INDONESIA",KOMPAS TV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 tvg-id="kompastv.id" ch-number="10" tvg-name="KOMPAS TV" tvg-logo="http://cdn.roll.my.id/img/kompastv.png" group-title="INDONESIA",KOMPAS TV BACKUP
-https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
+http://group2-swiftservesd-1.dens.tv/s/s104/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="INDONESIA",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="INDONESIA",Berita Satu BACKUP
-https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg",Berita Satu News
+https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -195,7 +198,7 @@ https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png" group-title="INDONESIA",JAKTV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png" group-title="INDONESIA",JAKTV BACKUP
-https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
+https://bravo.kugo.id/jaktv/udp.stream_360p/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -205,7 +208,7 @@ https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 https://cdn09jtedge.useetv.com/joss/134/balitv/chunklist_w1041288394_b494100_sleng.m3u8?enc=2Q4JNfafCYYPNT-_18f9yw&uid=&exp=1645476652
 
 #EXTINF:-1 group-title="INDONESIA", O Channel
-https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+http://210.210.155.35/session/e0c19ce8-790c-11ec-a7a0-c81f66f89318/x6bnqe/s/s73/index2.m3u8
 #EXTINF:-1 type="stream" tvg-id="ochannel.id" tvg-name="O Channel T2" tvg-logo="http://i.postimg.cc/25XZMzKK/O-CHANNEL.png" group-title="INDONESIA",O Channel BACKUP
 http://tvn.x10.bz/vidio/master-18.m3u8
 #EXTINF:-1 group-title="INDONESIA", KPlus
