@@ -1094,7 +1094,7 @@ http://210.210.155.35/session/5bf247f6-7a97-11ec-8b65-b82a72d63267/dr9445/h/h14/
 #EXTINF:0 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="TV ENTERTAIN",Celestial Movies
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 #EXTINF:-1 group-title="TV ENTERTAIN", CINEMAX HBO
-http://pprotv.com:80/06169559/06169559/39506
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="TV ENTERTAIN" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1", Cinemax BACKUP
@@ -1106,7 +1106,7 @@ https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
 http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/109
 
 #EXTINF:-1 group-title="TV ENTERTAIN", HBO
-http://pprotv.com:80/06169559/06169559/39501
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1114,24 +1114,21 @@ http://pprotv.com:80/06169559/06169559/39501
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #EXTINF:-1 group-title="TV ENTERTAIN", HBO Family
-http://pprotv.com:80/06169559/06169559/39502
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="TV ENTERTAIN",HBO Family HD BACKUP
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #EXTINF:-1 group-title="TV ENTERTAIN", HBO Hits
-http://pprotv.com:80/06169559/06169559/39503
-
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="TV ENTERTAIN",HBO Hits HD BACKUP
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #EXTINF:-1 group-title="TV ENTERTAIN", HBO Signature
-http://pprotv.com:80/06169559/06169559/39504
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO RED
-http://pprotv.com:80/06169559/06169559/39505
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="TV ENTERTAIN",HBO Signature HD BACKUP
@@ -1258,8 +1255,7 @@ http://rr.dens.tv/h/h152/index2.m3u8
 #EXTINF:-1 group-title="TV ENTERTAIN",eGG Network
 http://rr.dens.tv/h/h22/index.m3u8
 #EXTINF:-1 tvg-id="WAKUWAKU JAPAN"" group-title="TV ENTERTAIN" tvg-logo="https://www.useetv.com/pimages/logo_wakuwaku_small.png?v=2.0.0.13",Waku Waku Japan
-http://pprotv.com:80/06169559/06169559/39546
-
+http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3vJZZTA" group-title="TV ENTERTAIN", IMC
 http://139.99.71.104:8888/live/blink4/frknnyvc9e/35484.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="TV ENTERTAIN",RedBox Movie 1
