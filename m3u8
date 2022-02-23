@@ -680,16 +680,6 @@ http://tvn.x10.bz/vidio/master-7.m3u8
 http://tvn.x10.bz/vidio/master-8.m3u8
 #EXTINF:-1 group-title="TV SPORT",  Champions 4 TV
 http://tvn.x10.bz/vidio/master-17.m3u8
-#EXTINF:-1,Champion TV 1 backup
-http://mantul.biz.id:8888/live/Manuel-Spain/8opbS3oMCp/232.m3u8
-#EXTINF:-1,Champion TV 2 backup
-http://mantul.biz.id:8888/live/Manuel-Spain/8opbS3oMCp/253.m3u8
-#EXTINF:-1,Champion TV 3 backup
-http://mantul.biz.id:8888/live/Manuel-Spain/8opbS3oMCp/77.m3u8
-#EXTINF:-1,Champion TV 4 backup
-http://mantul.biz.id:8888/live/Manuel-Spain/8opbS3oMCp/13922.m3u8
-#EXTINF:-1 group-title="TV SPORT",  ELEVENSPORT ASIA 1
-https://europe-west-hls.mls.mycujoo.tv/esgp/ckze22hzk000e0188jlzvr6d2/720p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT",MNC Sports
@@ -832,29 +822,29 @@ http://sonyiptv.net:8080/223140/223140/207069
 #EXTINF:-1,UK: Eurosport 2 HD
 http://sonyiptv.net:8080/223140/223140/207070
 #EXTINF:-1,SKY-SPORTS ARENA
-http://vmp343.ddnsking.com:80/david2/david2/549007
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549007
 #EXTINF:-1,SKY-SPORTS CRICKET
-http://vmp343.ddnsking.com:80/david2/david2/549004
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549004
 #EXTINF:-1,SKY-SPORTS FOOTBALL BACKUP
-http://vmp343.ddnsking.com:80/david2/david2/549003
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549003
 #EXTINF:-1,SKY-SPORTS FOOTBALL
 http://sonyiptv.net:8080/223140/223140/179910
 #EXTINF:-1,SKY-SPORTS MAIN EVENT BACKUP
-http://vmp343.ddnsking.com:80/david2/david2/549001
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549001
 #EXTINF:-1,SKY-SPORTS MAIN EVENT
 http://sonyiptv.net:8080/223140/223140/179911
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE
 http://sonyiptv.net:8080/223140/223140/179914
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE BACKUP
-http://vmp343.ddnsking.com:80/david2/david2/549002
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549002
 #EXTINF:-1,SKY-SPORTS RACING
-http://vmp343.ddnsking.com:80/david2/david2/549008
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549008
 #EXTINF:-1,SKY-SPORTS F1 BACKUP
 http://sonyiptv.net:8080/223140/223140/179918
 #EXTINF:-1,SKY-SPORTS F1
-http://vmp343.ddnsking.com:80/david2/david2/549070
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549070
 #EXTINF:-1,SKY-SPORTS GOLF
-http://vmp343.ddnsking.com:80/david2/david2/549005
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549005
 #EXTINF:-1,IT | Sport Moto GP HD
 http://satelliteiptv.xyz:8080/2f6swd46l7/sxd2w9ott7/686220
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
